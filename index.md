@@ -1,16 +1,14 @@
 ---
 layout: page
-title: Hello World!
-tagline: Welcome to my first blog made with Jekyll Bootstrap!
+title: Robots are fun!
+tagline: We are making a robot!
 ---
 
 {% include JB/setup %}
 
-## My personal blog
-
-Hello it is in here that I hope to make post things of personal interest to me however I will also post into my github projects and their milestones it is my hope that I will be able to look back and keep track of my personal and profesional development.
+## Arduino Robot in Porgress
     
-## My Posts
+## Updates
 
 <ul class="posts">
   {% for post in site.posts %}
@@ -20,6 +18,6 @@ Hello it is in here that I hope to make post things of personal interest to me h
 
 ## Extras
 <ul>
-    <li><a href="{{site.baseurl}}/projects/">Projects Page</a></li>
+    <li><a href="https://github.com/egonzalezjr555/Simple-Arduino-Robot">Source Code</a></li>
     <li><a href="{{site.baseurl}}/about/">About</a></li>
 </ul>
