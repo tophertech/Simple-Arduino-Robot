@@ -8,10 +8,10 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Eli's Blog
+title : Simple Arduino Robot 
 tagline: Site Tagline
 author :
-  name : Eli Gonzalez
+  name : Eli Gonzalez, Chris Ramirez, and Jen Rodriguez
   email : egonzalezjr555@gmail.com
   github : egonzalezjr555
 
@@ -23,7 +23,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://egonzalezjr555.github.io
+production_url : http://egonzalezjr555.github.io/Simple-Arduino-Robot/
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #

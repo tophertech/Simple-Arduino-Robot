@@ -1,54 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-        <title>Eli's Blog</title>
-        <description>Eli's Blog - Eli Gonzalez</description>
-        <link>http://egonzalezjr555.github.io</link>
-        <link>http://egonzalezjr555.github.io</link>
-        <lastBuildDate>2014-09-28T15:26:49-07:00</lastBuildDate>
-        <pubDate>2014-09-28T15:26:49-07:00</pubDate>
+        <title>Simple Arduino Robot</title>
+        <description>Simple Arduino Robot - Eli Gonzalez, Chris Ramirez, and Jen Rodriguez</description>
+        <link>http://egonzalezjr555.github.io/Simple-Arduino-Robot/</link>
+        <link>http://egonzalezjr555.github.io/Simple-Arduino-Robot/</link>
+        <lastBuildDate>2014-09-28T15:58:41-07:00</lastBuildDate>
+        <pubDate>2014-09-28T15:58:41-07:00</pubDate>
         <ttl>1800</ttl>
 
 
         <item>
-                <title>List of projects working on or planned</title>
+                <title>First Update</title>
                 <description>
-&lt;h1 id=&quot;list-of-porjects-that-i-am-currently-working-on&quot;&gt;List of porjects that I am currently working on:&lt;/h1&gt;
+&lt;h2 id=&quot;slow-start&quot;&gt;Slow start&lt;/h2&gt;
 
-&lt;ul&gt;
-	&lt;li&gt;
-		&lt;t1&gt;&lt;a href=&quot;https://github.com/egonzalezjr555/Simple-Arduino-Robot&quot;&gt;Arduino Robot&lt;/a&gt;&lt;/t1&gt;
-		&lt;p&gt;While me and my partners still haven&#39;t decided what exactly it is we wish to with this project here is what we have so far. We wish to establish a robot that essentailly can navigate itself. After we find out how we will do this I will add more to that project website.&lt;/p&gt;
-	&lt;/li&gt;
-	&lt;li&gt;
-		&lt;t1&gt;Quadrotor&lt;/t1&gt;
-		&lt;p&gt;A project that I am working on with CSE club members at my school. We have just finished with most of it&#39;s physical design and after coming back from a summer we are ready to start programming it. With any luck I will have a link setup shortly once we start with the actual coding.&lt;/p&gt;
-	&lt;/li&gt;
-	&lt;li&gt;
-		&lt;t1&gt;Independent Study at school&lt;/t1&gt;
-		&lt;p&gt;I have been talking with a porfessor about this and it seems that I will soon be able to start a project that involves sensors(exactly what I want to learn since it involves electronics/hardware). Once I start I will setup a project page for this.&lt;/p&gt;
-	&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-###Note this is only an update a complete list as time goes on hopefully will be added in the &lt;a href=&quot;/projects/&quot;&gt;Projects Page&lt;/a&gt;.
-&lt;/ul&gt;
+&lt;p&gt;Ok so far we have been up to a slow start however, I hope that as the quarter progresses we will be able to show more progress as the quarter passes. So far we have gotten everything to work as a standalone, but now we need to put everything for the intial part to come together. As time goes on I will add pictures and show any progress maybe post some of the code here. This site is merely an experiment and will be dropped if it becomes too cumbersome.
+-Eli&lt;/p&gt;
 </description>
-                <link>http://egonzalezjr555.github.io/2014/09/28/new-post</link>
-                <guid>http://egonzalezjr555.github.io/2014/09/28/new-post</guid>
-                <pubDate>2014-09-28T00:00:00-07:00</pubDate>
-        </item>
-
-        <item>
-                <title>My first post</title>
-                <description>
-&lt;h2 id=&quot;wohooo&quot;&gt;Wohooo&lt;/h2&gt;
-
-&lt;p&gt;Finally got it to work I must admit I find this Jekyll along with this Jekyll program that was used to make this message I interesting. I am glad that I spent these last few hours doing this. &lt;/p&gt;
-
-&lt;p&gt;Y este es para Cynthia te amo!&lt;/p&gt;
-</description>
-                <link>http://egonzalezjr555.github.io/2014/09/28/my-first-post</link>
-                <guid>http://egonzalezjr555.github.io/2014/09/28/my-first-post</guid>
+                <link>http://egonzalezjr555.github.io/Simple-Arduino-Robot//2014/09/28/new-post</link>
+                <guid>http://egonzalezjr555.github.io/Simple-Arduino-Robot//2014/09/28/new-post</guid>
                 <pubDate>2014-09-28T00:00:00-07:00</pubDate>
         </item>
 

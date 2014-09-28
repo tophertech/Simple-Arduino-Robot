@@ -1,14 +1,13 @@
 
-http://egonzalezjr555.github.io/archive.html
-http://egonzalezjr555.github.io/atom.xml
-http://egonzalezjr555.github.io/categories.html
-http://egonzalezjr555.github.io/about/index.html
-http://egonzalezjr555.github.io/projects/index.html
-http://egonzalezjr555.github.io/index.html
-http://egonzalezjr555.github.io/pages.html
-http://egonzalezjr555.github.io/rss.xml
-http://egonzalezjr555.github.io/sitemap.txt
-http://egonzalezjr555.github.io/tags.html
+http://egonzalezjr555.github.io/Simple-Arduino-Robot//archive.html
+http://egonzalezjr555.github.io/Simple-Arduino-Robot//atom.xml
+http://egonzalezjr555.github.io/Simple-Arduino-Robot//categories.html
+http://egonzalezjr555.github.io/Simple-Arduino-Robot//about/index.html
+http://egonzalezjr555.github.io/Simple-Arduino-Robot//projects/index.html
+http://egonzalezjr555.github.io/Simple-Arduino-Robot//index.html
+http://egonzalezjr555.github.io/Simple-Arduino-Robot//pages.html
+http://egonzalezjr555.github.io/Simple-Arduino-Robot//rss.xml
+http://egonzalezjr555.github.io/Simple-Arduino-Robot//sitemap.txt
+http://egonzalezjr555.github.io/Simple-Arduino-Robot//tags.html
 
-http://egonzalezjr555.github.io/2014/09/28/new-post
-http://egonzalezjr555.github.io/2014/09/28/my-first-post
+http://egonzalezjr555.github.io/Simple-Arduino-Robot//2014/09/28/new-post
