@@ -8,10 +8,10 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Simple Arduino Robot 
+title : Eli's Blog
 tagline: Site Tagline
 author :
-  name : Eli Gonzalez, Chris Ramirez, and Jen Rodriguez
+  name : Eli Gonzalez
   email : egonzalezjr555@gmail.com
   github : egonzalezjr555
 
