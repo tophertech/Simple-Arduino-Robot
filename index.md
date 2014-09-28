@@ -19,5 +19,5 @@ tagline: We are making a robot!
 ## Extras
 <ul>
     <li><a href="https://github.com/egonzalezjr555/Simple-Arduino-Robot">Source Code</a></li>
-    <li><a href="{{site.baseurl}}/about/">About</a></li>
+    <li><a href="{{BASE_PATH}}/about/">About</a></li>
 </ul>
