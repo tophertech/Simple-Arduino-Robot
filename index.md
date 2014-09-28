@@ -17,4 +17,5 @@ tagline: We are creating an Arduino Robot and we want to document this!
 ## Information
 <ul>
     <li><a href="{{site.baseurl}}/about/">About</a></li>
+    <li><a herf ="https://github.com/egonzalezjr555/Simple-Arduino-Robot">Source Code of Project</a>
 </ul>
