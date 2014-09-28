@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Robots are fun!
-tagline: We are making a robot!
+tagline: Documenting our progress!
 ---
 
 {% include JB/setup %}
