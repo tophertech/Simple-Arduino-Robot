@@ -1,0 +1,22 @@
+#ifndef DRIVE_h
+#define DRIVE_h
+
+#include "Arduino.h"
+
+class Drive {
+  public:
+    Drive();
+    Drive(int, int, int, int);
+    void forward();
+    void backward();
+    void left();
+    void right();
+    void stop();
+  private:
+    //Default pins for motors
+    int rforward = 8
+    int rbackward = 7
+    int lforward = 10
+    int lbackward = 9
+};
+#endif
